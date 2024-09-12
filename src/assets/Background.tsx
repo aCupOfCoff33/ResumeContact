@@ -36,7 +36,7 @@ export function AuroraBackgroundDemo() {
         </div>
 
         <div className="font-extralight text-base md:text-4xl dark:text-neutral-200 py-4">
-          Student Interested as Technical PM at Bell
+          Student Interested to Work At Bell in Summer 2025
         </div>
         <div className="bg-black dark:bg-gray-300 rounded-lg w-fit text-white dark:text-black px-4 py-2">
           Software Engineering with Ivey A.E.O
