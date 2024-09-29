@@ -34,10 +34,10 @@ export function AuroraBackgroundDemo() {
         </div>
 
         <div className="font-extralight text-sm md:text-xl dark:text-neutral-200 py-4">
-          Student Interested Working For You!
+           Using Technology for Social Impact
         </div>
         <div className="bg-black dark:bg-gray-300 rounded-lg w-fit text-white dark:text-black px-4 py-2 text-sm md:text-base">
-          Software Engineering with Ivey A.E.O
+          Software Engineering
         </div>
 
         {/* Icons and Text */}
